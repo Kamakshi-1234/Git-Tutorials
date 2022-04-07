@@ -1,0 +1,65 @@
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git clone ^[[200~https://github.com/Kamakshi-1234/Kamakshi1234.git
+Cloning into 'Kamakshi1234'...
+fatal: protocol '?[200~https' is not supported
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ~git clone https://github.com/Kamakshi-1234/Kamakshi-1234.git;
+bash: ~git: command not found
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls
+'3D Objects'/             Links/                                                                                         PrintHood@      'first program.ipynb'
+ AndroidStudioProjects/  'Local Settings'@                                                                               Recent@         'first python.ipynb'
+ AppData/                 Music/                                                                                        'Saved Games'/   'first year python.ipynb'
+'Application Data'@      'My Documents'@                                                                                 Searches/        fun/
+ Contacts/                NTUSER.DAT                                                                                     SendTo@          great.py
+ Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       'Start Menu'@     ntuser.dat.LOG1
+ Desktop/                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Templates@       ntuser.dat.LOG2
+ Documents/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Untitled.ipynb   ntuser.ini
+ Downloads/               NetHood@                                                                                       Videos/
+ Favorites/               OneDrive/                                                                                      __pycache__/
+ IntelGraphicsProfiles/   Pictures/                                                                                      constant.py
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git clone https://github.com/Kamakshi-1234/Kamakshi-1234.git
+Cloning into 'Kamakshi-1234'...
+warning: You appear to have cloned an empty repository.
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls
+'3D Objects'/             Kamakshi-1234/                                                                                 Pictures/        constant.py
+ AndroidStudioProjects/   Links/                                                                                         PrintHood@      'first program.ipynb'
+ AppData/                'Local Settings'@                                                                               Recent@         'first python.ipynb'
+'Application Data'@       Music/                                                                                        'Saved Games'/   'first year python.ipynb'
+ Contacts/               'My Documents'@                                                                                 Searches/        fun/
+ Cookies@                 NTUSER.DAT                                                                                     SendTo@          great.py
+ Desktop/                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       'Start Menu'@     ntuser.dat.LOG1
+ Documents/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Templates@       ntuser.dat.LOG2
+ Downloads/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Untitled.ipynb   ntuser.ini
+ Favorites/               NetHood@                                                                                       Videos/
+ IntelGraphicsProfiles/   OneDrive/                                                                                      __pycache__/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ cd..
+bash: cd..: command not found
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ cd fun
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   demo1.txt
+
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ ^C
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$

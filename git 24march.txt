@@ -1,0 +1,98 @@
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ git remote set-url origin https://github.com/Kamakshi-1234/Kamakshi-1234.git
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ git remote se-url https:\\github.com\Kamakshi-1234\Kamakshi-1234.git
+error: Unknown subcommand: se-url
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ git remote set-url origin C:\Users\ANJALI PANNU\Kamakshi-1234
+fatal: No such URL found: PANNUKamakshi-1234
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ cd C:\Users\ANJALI PANNU\Kamakshi-1234
+bash: cd: too many arguments
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ cd C:/Users/ANJALI PANNU/Kamakshi-1234
+bash: cd: too many arguments
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ git remote set-url origin https://github.com/Kamakshi-1234/Kamakshi-1234.git
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ git remote -v
+origin  https://github.com/Kamakshi-1234/Kamakshi-1234.git (fetch)
+origin  https://github.com/Kamakshi-1234/Kamakshi-1234.git (push)
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ cd..
+bash: cd..: command not found
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/Kamakshi-1234 (main)
+$ cd ..
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date
+Thu Mar 24 11:36:42 IST 2022
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +"%A"
+Thursday
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +"%a"
+Thu
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +"%B"
+March
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +"%D"
+03/24/22
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +"%u"
+4
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date + "%A%B%D"
+date: extra operand ‘%A%B%D’
+Try 'date --help' for more information.
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date + %u + "%A%B%C"
+date: extra operand ‘%u’
+Try 'date --help' for more information.
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date + %u+"%A%B%C"
+date: extra operand ‘%u+%A%B%C’
+Try 'date --help' for more information.
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ date +%u+"%A%B%C"
+4+ThursdayMarch20
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ^C
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$

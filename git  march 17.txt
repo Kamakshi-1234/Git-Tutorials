@@ -1,0 +1,379 @@
+00 ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ echo hi deepika
+hi deepika
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -l
+total 10021
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 '3D Objects'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Jan 10 07:59  AndroidStudioProjects/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  AppData/
+lrwxrwxrwx 1 ANJALI PANNU 197121      37 Sep 29 05:55 'Application Data' -> '/c/Users/ANJALI PANNU/AppData/Roaming'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Contacts/
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Cookies -> '/c/Users/ANJALI PANNU/AppData/Local/Microsoft/Windows/INetCookies'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 10 22:31  Desktop/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 31 14:12  Documents/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 13:48  Downloads/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Favorites/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 17 10:49  IntelGraphicsProfiles/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Links/
+lrwxrwxrwx 1 ANJALI PANNU 197121      35 Sep 29 05:55 'Local Settings' -> '/c/Users/ANJALI PANNU/AppData/Local'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  3 11:40  Music/
+lrwxrwxrwx 1 ANJALI PANNU 197121      31 Sep 29 05:55 'My Documents' -> '/c/Users/ANJALI PANNU/Documents'/
+-rw-r--r-- 1 ANJALI PANNU 197121 7077888 Mar 17 10:33  NTUSER.DAT
+-rw-r--r-- 1 ANJALI PANNU 197121   65536 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  NetHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 25 19:14  OneDrive/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 15 16:28  Pictures/
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  PrintHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  Recent -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Recent'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 'Saved Games'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:56  Searches/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  SendTo -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/SendTo'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      66 Sep 29 05:55 'Start Menu' -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Templates -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Templates'/
+-rw-r--r-- 1 ANJALI PANNU 197121      72 Oct  2 10:32  Untitled.ipynb
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  8 08:46  Videos/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Oct  3 07:59  __pycache__/
+-rw-r--r-- 1 ANJALI PANNU 197121       9 Oct  3 07:52  constant.py
+-rw-r--r-- 1 ANJALI PANNU 197121     588 Oct  2 10:37 'first program.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121     848 Oct  1 16:10 'first python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121    1118 Oct  2 10:49 'first year python.ipynb'
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 14:18  fun/
+-rw-r--r-- 1 ANJALI PANNU 197121      37 Oct  3 07:58  great.py
+-rw-r--r-- 1 ANJALI PANNU 197121 1572864 Sep 29 05:55  ntuser.dat.LOG1
+-rw-r--r-- 1 ANJALI PANNU 197121  393216 Sep 29 05:55  ntuser.dat.LOG2
+-rw-r--r-- 1 ANJALI PANNU 197121      20 Sep 29 05:55  ntuser.ini
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -F
+'3D Objects'/             Links/                                                                                         PrintHood@      'first program.ipynb'
+ AndroidStudioProjects/  'Local Settings'@                                                                               Recent@         'first python.ipynb'
+ AppData/                 Music/                                                                                        'Saved Games'/   'first year python.ipynb'
+'Application Data'@      'My Documents'@                                                                                 Searches/        fun/
+ Contacts/                NTUSER.DAT                                                                                     SendTo@          great.py
+ Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       'Start Menu'@     ntuser.dat.LOG1
+ Desktop/                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Templates@       ntuser.dat.LOG2
+ Documents/               NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Untitled.ipynb   ntuser.ini
+ Downloads/               NetHood@                                                                                       Videos/
+ Favorites/               OneDrive/                                                                                      __pycache__/
+ IntelGraphicsProfiles/   Pictures/                                                                                      constant.py
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -a
+ ./                      'Application Data'@       NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        Untitled.ipynb
+ ../                      Contacts/                NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Videos/
+ .android/                Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   __pycache__/
+ .bash_history            Desktop/                 NetHood@                                                                                       constant.py
+ .gradle/                 Documents/               OneDrive/                                                                                     'first program.ipynb'
+ .ipynb_checkpoints/      Downloads/               Pictures/                                                                                     'first python.ipynb'
+ .ipython/                Favorites/               PrintHood@                                                                                    'first year python.ipynb'
+ .jupyter/                IntelGraphicsProfiles/   Recent@                                                                                        fun/
+ .matplotlib/             Links/                  'Saved Games'/                                                                                  great.py
+ .vscode/                'Local Settings'@         Searches/                                                                                      ntuser.dat.LOG1
+'3D Objects'/             Music/                   SendTo@                                                                                        ntuser.dat.LOG2
+ AndroidStudioProjects/  'My Documents'@          'Start Menu'@                                                                                   ntuser.ini
+ AppData/                 NTUSER.DAT               Templates@
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -lh
+total 11M
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55 '3D Objects'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Jan 10 07:59  AndroidStudioProjects/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55  AppData/
+lrwxrwxrwx 1 ANJALI PANNU 197121   37 Sep 29 05:55 'Application Data' -> '/c/Users/ANJALI PANNU/AppData/Roaming'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55  Contacts/
+lrwxrwxrwx 1 ANJALI PANNU 197121   65 Sep 29 05:55  Cookies -> '/c/Users/ANJALI PANNU/AppData/Local/Microsoft/Windows/INetCookies'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Mar 10 22:31  Desktop/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Dec 31 14:12  Documents/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Mar 16 13:48  Downloads/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55  Favorites/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Mar 17 10:49  IntelGraphicsProfiles/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55  Links/
+lrwxrwxrwx 1 ANJALI PANNU 197121   35 Sep 29 05:55 'Local Settings' -> '/c/Users/ANJALI PANNU/AppData/Local'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Dec  3 11:40  Music/
+lrwxrwxrwx 1 ANJALI PANNU 197121   31 Sep 29 05:55 'My Documents' -> '/c/Users/ANJALI PANNU/Documents'/
+-rw-r--r-- 1 ANJALI PANNU 197121 6.8M Mar 17 10:33  NTUSER.DAT
+-rw-r--r-- 1 ANJALI PANNU 197121  64K Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+-rw-r--r-- 1 ANJALI PANNU 197121 512K Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 ANJALI PANNU 197121 512K Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 ANJALI PANNU 197121   73 Sep 29 05:55  NetHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Dec 25 19:14  OneDrive/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Mar 15 16:28  Pictures/
+lrwxrwxrwx 1 ANJALI PANNU 197121   73 Sep 29 05:55  PrintHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 ANJALI PANNU 197121   62 Sep 29 05:55  Recent -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Recent'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:55 'Saved Games'/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Sep 29 05:56  Searches/
+lrwxrwxrwx 1 ANJALI PANNU 197121   62 Sep 29 05:55  SendTo -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/SendTo'/
+lrwxrwxrwx 1 ANJALI PANNU 197121   66 Sep 29 05:55 'Start Menu' -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 ANJALI PANNU 197121   65 Sep 29 05:55  Templates -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Templates'/
+-rw-r--r-- 1 ANJALI PANNU 197121   72 Oct  2 10:32  Untitled.ipynb
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Dec  8 08:46  Videos/
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Oct  3 07:59  __pycache__/
+-rw-r--r-- 1 ANJALI PANNU 197121    9 Oct  3 07:52  constant.py
+-rw-r--r-- 1 ANJALI PANNU 197121  588 Oct  2 10:37 'first program.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121  848 Oct  1 16:10 'first python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121 1.1K Oct  2 10:49 'first year python.ipynb'
+drwxr-xr-x 1 ANJALI PANNU 197121    0 Mar 16 14:18  fun/
+-rw-r--r-- 1 ANJALI PANNU 197121   37 Oct  3 07:58  great.py
+-rw-r--r-- 1 ANJALI PANNU 197121 1.5M Sep 29 05:55  ntuser.dat.LOG1
+-rw-r--r-- 1 ANJALI PANNU 197121 1.5M Sep 29 05:55  ntuser.dat.LOG2
+-rw-r--r-- 1 ANJALI PANNU 197121   20 Sep 29 05:55  ntuser.ini
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -r
+ ntuser.ini                 Untitled.ipynb   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Documents/
+ ntuser.dat.LOG2            Templates@       NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Desktop/
+ ntuser.dat.LOG1           'Start Menu'@     NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        Cookies@
+ great.py                   SendTo@          NTUSER.DAT                                                                                     Contacts/
+ fun/                       Searches/       'My Documents'@                                                                                'Application Data'@
+'first year python.ipynb'  'Saved Games'/    Music/                                                                                         AppData/
+'first python.ipynb'        Recent@         'Local Settings'@                                                                               AndroidStudioProjects/
+'first program.ipynb'       PrintHood@       Links/                                                                                        '3D Objects'/
+ constant.py                Pictures/        IntelGraphicsProfiles/
+ __pycache__/               OneDrive/        Favorites/
+ Videos/                    NetHood@         Downloads/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls - LS
+ls: cannot access '-': No such file or directory
+ls: cannot access 'LS': No such file or directory
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -lS
+total 11173
+-rw-r--r-- 1 ANJALI PANNU 197121 7077888 Mar 17 10:33  NTUSER.DAT
+-rw-r--r-- 1 ANJALI PANNU 197121 1572864 Sep 29 05:55  ntuser.dat.LOG1
+-rw-r--r-- 1 ANJALI PANNU 197121 1572864 Sep 29 05:55  ntuser.dat.LOG2
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 ANJALI PANNU 197121   65536 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+-rw-r--r-- 1 ANJALI PANNU 197121    1118 Oct  2 10:49 'first year python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121     848 Oct  1 16:10 'first python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121     588 Oct  2 10:37 'first program.ipynb'
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  NetHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  PrintHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+-rw-r--r-- 1 ANJALI PANNU 197121      72 Oct  2 10:32  Untitled.ipynb
+lrwxrwxrwx 1 ANJALI PANNU 197121      66 Sep 29 05:55 'Start Menu' -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Cookies -> '/c/Users/ANJALI PANNU/AppData/Local/Microsoft/Windows/INetCookies'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Templates -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Templates'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  Recent -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Recent'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  SendTo -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/SendTo'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      37 Sep 29 05:55 'Application Data' -> '/c/Users/ANJALI PANNU/AppData/Roaming'/
+-rw-r--r-- 1 ANJALI PANNU 197121      37 Oct  3 07:58  great.py
+lrwxrwxrwx 1 ANJALI PANNU 197121      35 Sep 29 05:55 'Local Settings' -> '/c/Users/ANJALI PANNU/AppData/Local'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      31 Sep 29 05:55 'My Documents' -> '/c/Users/ANJALI PANNU/Documents'/
+-rw-r--r-- 1 ANJALI PANNU 197121      20 Sep 29 05:55  ntuser.ini
+-rw-r--r-- 1 ANJALI PANNU 197121       9 Oct  3 07:52  constant.py
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 '3D Objects'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Jan 10 07:59  AndroidStudioProjects/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  AppData/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Contacts/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 10 22:31  Desktop/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 31 14:12  Documents/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 13:48  Downloads/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Favorites/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 17 10:49  IntelGraphicsProfiles/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Links/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  3 11:40  Music/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 25 19:14  OneDrive/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 15 16:28  Pictures/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 'Saved Games'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:56  Searches/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  8 08:46  Videos/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Oct  3 07:59  __pycache__/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 14:18  fun/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -ltr
+total 11173
+-rw-r--r-- 1 ANJALI PANNU 197121 1572864 Sep 29 05:55  ntuser.dat.LOG2
+-rw-r--r-- 1 ANJALI PANNU 197121 1572864 Sep 29 05:55  ntuser.dat.LOG1
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 ANJALI PANNU 197121  524288 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Templates -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Templates'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      66 Sep 29 05:55 'Start Menu' -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  SendTo -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/SendTo'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      62 Sep 29 05:55  Recent -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Recent'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  PrintHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      73 Sep 29 05:55  NetHood -> '/c/Users/ANJALI PANNU/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      31 Sep 29 05:55 'My Documents' -> '/c/Users/ANJALI PANNU/Documents'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      35 Sep 29 05:55 'Local Settings' -> '/c/Users/ANJALI PANNU/AppData/Local'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      65 Sep 29 05:55  Cookies -> '/c/Users/ANJALI PANNU/AppData/Local/Microsoft/Windows/INetCookies'/
+lrwxrwxrwx 1 ANJALI PANNU 197121      37 Sep 29 05:55 'Application Data' -> '/c/Users/ANJALI PANNU/AppData/Roaming'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  AppData/
+-rw-r--r-- 1 ANJALI PANNU 197121      20 Sep 29 05:55  ntuser.ini
+-rw-r--r-- 1 ANJALI PANNU 197121   65536 Sep 29 05:55  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 '3D Objects'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Contacts/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Favorites/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55 'Saved Games'/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:55  Links/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Sep 29 05:56  Searches/
+-rw-r--r-- 1 ANJALI PANNU 197121     848 Oct  1 16:10 'first python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121      72 Oct  2 10:32  Untitled.ipynb
+-rw-r--r-- 1 ANJALI PANNU 197121     588 Oct  2 10:37 'first program.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121    1118 Oct  2 10:49 'first year python.ipynb'
+-rw-r--r-- 1 ANJALI PANNU 197121       9 Oct  3 07:52  constant.py
+-rw-r--r-- 1 ANJALI PANNU 197121      37 Oct  3 07:58  great.py
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Oct  3 07:59  __pycache__/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  3 11:40  Music/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec  8 08:46  Videos/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 25 19:14  OneDrive/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Dec 31 14:12  Documents/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Jan 10 07:59  AndroidStudioProjects/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 10 22:31  Desktop/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 15 16:28  Pictures/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 13:48  Downloads/
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 16 14:18  fun/
+-rw-r--r-- 1 ANJALI PANNU 197121 7077888 Mar 17 10:33  NTUSER.DAT
+drwxr-xr-x 1 ANJALI PANNU 197121       0 Mar 17 10:49  IntelGraphicsProfiles/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ ls -i
+  562949953446975 '3D Objects'/                                                                                    562949953446407  Pictures/
+43347146413479264  AndroidStudioProjects/                                                                          562949953446521  PrintHood@
+  562949953446415  AppData/                                                                                        562949953446522  Recent@
+  562949953446519 'Application Data'@                                                                              562949953446406 'Saved Games'/
+  562949953446983  Contacts/                                                                                       844424930157676  Searches/
+  562949953446528  Cookies@                                                                                        562949953446523  SendTo@
+  562949953446414  Desktop/                                                                                        562949953446524 'Start Menu'@
+  562949953446413  Documents/                                                                                      562949953446525  Templates@
+  562949953446412  Downloads/                                                                                     2814749767198882  Untitled.ipynb
+  562949953446411  Favorites/                                                                                      562949953446405  Videos/
+  562949953446714  IntelGraphicsProfiles/                                                                         1688849860354040  __pycache__/
+  562949953446410  Links/                                                                                         1688849860353881  constant.py
+  562949953446526 'Local Settings'@                                                                               7318349394566818 'first program.ipynb'
+  562949953446409  Music/                                                                                         5629499534502634 'first python.ipynb'
+  562949953446515 'My Documents'@                                                                                14636698789042293 'first year python.ipynb'
+  562949953446404  NTUSER.DAT                                                                                     5910974511000199  fun/
+  562949953446506  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        1688849860353884  great.py
+  562949953446507  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms    562949953446504  ntuser.dat.LOG1
+  562949953446508  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms    562949953446505  ntuser.dat.LOG2
+  562949953446520  NetHood@                                                                                        562949953446533  ntuser.ini
+  562949953523444  OneDrive/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git config --global user.name "Anjali"
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git config --global user.email "anjali2420.be21@chitkara.edu.in"
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git config --global user.name
+Anjali
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ whoami
+ANJALI PANNU
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ pwd
+/c/Users/ANJALI PANNU
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ git help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ cd anjali
+bash: cd: anjali: No such file or directory
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ cd Anjali Pannu
+bash: cd: too many arguments
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~
+$ cd fun
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ ls -a
+./  ../  .git/  Anjali/
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ touch demo1.txt
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ ls
+Anjali/  demo1.txt
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ git and demo1.txt
+git: 'and' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ git add demo1.txt
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   demo1.txt
+
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$
+
+ANJALI PANNU@LAPTOP-9B2FSBMT MINGW64 ~/fun (master)
+$
